@@ -1,2 +1,5 @@
 # POC-for-CNN
 whale identification using CNN
+
+download link for Image file details:
+https://storage.googleapis.com/kaggle-competitions-data/kaggle/6818/207611/all.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1559198855&Signature=gyPLz9jsTPgkrCcyQ06o8XejWxRg8WWj4AdACegK0lM6Esx0DIny8q8qpkTHX6N0ArT9qu9gsgedb94%2BsBLQJRp%2BUGsXMw9NXS19x%2F8jN9tJZobIuhbCCsvokMCgi5raFanJMr27kQlQcCfgxakpwNoCvRmkAls9J9EubMbRXknK8ogCYf5BSej%2B1KoZAE8sItvMuFhWPN%2BN1Lp2%2BL5MYdmAqhGkT2Q6m0gOiWIgafsuFkbCb2LXTqewAsbpys8yTYGcDRB4L3S888lreo2kcbuGszhia72iFR1wHK2LEiOJgvD8yimItF6zNUI5OmLVCDih9qXpSS6TgNbIj2%2BB6A%3D%3D&response-content-disposition=attachment%3B+filename%3Dhumpback-whale-identification.zip
